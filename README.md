@@ -1,14 +1,27 @@
- 
-<h1> Academy-Website</h1>
+ # Academy Website
 
-I've designed and coded a responsive course website, and it's ready to explore!
+A responsive course platform landing page designed for online education platforms.
 
-🔸 Project Name: Academy Website
+## 🚀 Tech Stack
+- HTML
+- CSS
+- Bootstrap
 
-🔸 Technologies Used: HTML, CSS, Bootstrap
+## 🔐 Features
+- Course showcase sections
+- Instructor presentation
+- Student testimonials
+- Responsive learning platform UI
 
-🔸 Project Description: This website, which I designed and coded from scratch, works flawlessly on various devices, from mobile phones to desktop computers...
+## 🧠 Architecture & Focus
+- Bootstrap responsive grid
+- Education platform UI structure
+- Clean typography and layout
 
-<h2>Screen_Shoot</h2>
-
+## 📷 Demo
 ![](screen_academy-website.gif)
+
+## 💡 Future Improvements
+- Course enrollment system
+- Login system
+- Dashboard for students
